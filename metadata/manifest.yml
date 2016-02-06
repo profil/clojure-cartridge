@@ -9,6 +9,7 @@ Description: "Clojure is a dynamic programming language that targets the Java Vi
 
 Version: '1.8.0'
 Website: http://www.clojure.org
+Source-Url: git@github.com:profil/clojure-cartridge.git
 
 Categories:
   - service
